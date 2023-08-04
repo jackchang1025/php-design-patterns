@@ -14,13 +14,13 @@
 * [工厂模式比较](app/Create/FactoryModelComparison/README.md)
 
 #### 结构型模式
-* [适配器 Adapter 让接口不兼容的对象能够相互合作](app/Structure/AdapterPattern/README.md)
-* [桥接 Bridge 可将一个大类或一系列紧密相关的类拆分为抽象和实现两个独立的层次结构， 从而能在开发时分别使用](app/Structure/BridgePattern/README.md)
-* [组合 Composite 你可以使用它将对象组合成树状结构， 并且能像使用独立对象一样使用它们](./app/Structure/CompositePattern/README.md)
-* [装饰 Decorator 允许你通过将对象放入包含行为的特殊封装对象中来为原对象绑定新的行为](app/Structure/DecoratorPattern/README.md)
-* [外观 Facade 能为程序库、 框架或其他复杂类提供一个简单的接口](./app/Structure/FacadePattern/README.md)
-* [享元 Flyweight 摒弃了在每个对象中保存所有数据的方式， 通过共享多个对象所共有的相同状态， 让你能在有限的内存容量中载入更多对象](./app/Structure/FlyweightPattern/README.md)
-* [代理 Proxy 让你能够提供对象的替代品或其占位符。 代理控制着对于原对象的访问， 并允许在将请求提交给对象](./app/Structure/Proxy/README.md)
+* [适配器 Adapter](app/Structure/AdapterPattern/README.md)
+* [桥接 Bridge](app/Structure/BridgePattern/README.md)
+* [组合 Composite](./app/Structure/CompositePattern/README.md)
+* [装饰 Decorator](app/Structure/DecoratorPattern/README.md)
+* [外观 Facade](./app/Structure/FacadePattern/README.md)
+* [享元 Flyweight](./app/Structure/FlyweightPattern/README.md)
+* [代理 Proxy](./app/Structure/Proxy/README.md)
 
 #### 行为型模式
 * [责任链模式](./app/Behavior/ChainOfResponsibility/README.md)
@@ -33,8 +33,6 @@
 * [模板方法模式 Template Method](./app/Behavior/TemplateMethod/README.md)
 * [访问者模式 Visitor](./app/Behavior/Visitor/README.md)
 
-✔️
-❌
 ### 模式包含哪些内容？
 
 大部分模式都有正规的描述方式， 以便在不同情况下使用。 模式的描述通常会包括以下部分：
@@ -82,3 +80,7 @@
 * 创建型模式提供创建对象的机制， 增加已有代码的灵活性和可复用性。
 * 结构型模式介绍如何将对象和类组装成较大的结构， 并同时保持结构的灵活和高效。
 * 行为模式负责对象间的高效沟通和职责委派。
+
+### [转载来自](https://refactoringguru.cn/)
+
+### [国内信用卡续费 ChatGPT PLUS 的办法](Readme2.md)
